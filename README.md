@@ -1,2 +1,2 @@
-# GRE-Books-Collection
+# GRE-Books-Collection-App
 The GRE Books Collection Android app is a comprehensive digital library designed for students preparing for the GRE (Graduate Record Examination). It features a curated selection of high-quality GRE preparation books, covering essential subjects like verbal reasoning, quantitative reasoning, and analytical writing. The app provides easy access to various study materials, summaries, and practice questions, enabling users to conveniently study anytime, anywhere.
